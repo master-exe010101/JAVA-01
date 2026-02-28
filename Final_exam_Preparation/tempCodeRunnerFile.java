@@ -1,0 +1,1 @@
+System.out.println("Prime numbers from 1 to 100 are: ");
