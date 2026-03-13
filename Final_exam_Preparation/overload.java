@@ -23,7 +23,7 @@ class Student{
     }
 }
 
-public class over{
+public class overload{
     public static void main(String[] args){
         Student obj = new Student();
         obj.cal(10,50);
@@ -31,4 +31,5 @@ public class over{
         obj.cal(40);
         
     }
+
 }
